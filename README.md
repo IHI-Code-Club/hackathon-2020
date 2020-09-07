@@ -22,6 +22,14 @@ but we put _collaboration before competition_. Everyone is a winner!
 ## Registration
 _information about registration_
 
+### Eligibility Criteria
+
+### Deadlines
+Choose one of our projects or use template to create your own by 1 month before
+We will tell you which team and project you will be in on Day 1 during Matchmaking
+Registration deadline: May [1 month before 3 days]
+Project submission / choose deadline: [2 weeks before]. Selected projects will be rewarded e.g. £20 voucher, best project awarded prize
+
 ## Project submission guideline
 ### Categories
 - Data story-telling
@@ -44,7 +52,8 @@ Submitted project will be evaluated based on:
 
 ## Matchmaking
 Participants will form teams based on their project preference.
-If no project preference, participants will be matched based on category / theme preference and expertise.
+If no project preference, participants will be matched based on category / theme / language preference and expertise.
+Matchmaking will happen on day 1.
 
 ## Timeline
 ### Pre-hackathon
@@ -78,3 +87,8 @@ The IHI Code Club Hackathon is sponsored by:
 - UCL Institute of Child Health
 - UCL eResearch domain
 - UCL Changemakers
+
+
+## Rules
+No code written before day 1
+Must add all code to our official GitHub folder
