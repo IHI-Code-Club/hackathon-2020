@@ -20,15 +20,16 @@ but we put _collaboration before competition_. Everyone is a winner!
 
 
 ## Registration
-_information about registration_
+_information about registration e.g. EventBrite & Inkpath_
 
 ### Eligibility Criteria
 
 ### Deadlines
-Choose one of our projects or use template to create your own by 1 month before
-We will tell you which team and project you will be in on Day 1 during Matchmaking
-Registration deadline: May [1 month before 3 days]
-Project submission / choose deadline: [2 weeks before]. Selected projects will be rewarded e.g. £20 voucher, best project awarded prize
+Choose one of our projects or use our template to create your own by 1 month before  
+We will tell you which team and project you will be in on Day 1 during Matchmaking  
+##### Registration deadline: May [1 month before 3 days]  
+##### Project submission and choice deadline: [2 weeks before].   
+Selected projects will be rewarded e.g. £20 voucher, or awarded the Best Project prize.    
 
 ## Project submission guideline
 ### Categories
@@ -51,9 +52,9 @@ Submitted project will be evaluated based on:
 - Public reception
 
 ## Matchmaking
-Participants will form teams based on their project preference.
-If no project preference, participants will be matched based on category / theme / language preference and expertise.
-Matchmaking will happen on day 1.
+Participants will form teams based on their project preference.  
+If no project preference, participants will be matched based on category / theme / language preference and expertise.  
+Matchmaking will happen on Day 1.  
 
 ## Timeline
 ### Pre-hackathon
@@ -90,5 +91,5 @@ The IHI Code Club Hackathon is sponsored by:
 
 
 ## Rules
-No code written before day 1
-Must add all code to our official GitHub folder
+No code is to be written before day 1  
+Must add all code to our official GitHub folder  
