@@ -81,13 +81,15 @@ Matchmaking will happen on Day 1.
 
 ### Face-to-screen meetings
 #### Day 1
+- _Invited speaker 1 (e.g. Turing Way)_
+- _Virtual workshop: git version control_
+- _Ways of working_
 - Introduction
-- Invited speaker 1 (e.g. Turing Way)
-- Virtual workshop: git version control
-- Ways of working
 - Project introduction
 - Team introduction
 - Team planning session 
+
+Note: The italicized items are optional and will be held during the first half of the days
 
 #### Day 2
 - Hacking session: part 1
