@@ -108,14 +108,19 @@ Note: The italicized items are optional and will be held during the first half o
 
 
 ### Acknowledgements
-The IHI Code Club Hackathon is sponsored by:
+The IHI Code Club Hackathon is a Researcher Led Initiative (RLI) activity funded by the UCL RSDP (@Twitter link).
+
+We are also supported by: 
 - UCL Institute of Health Informatics
 - UCL Institute of Child Health
 - UCL eResearch domain
 - UCL Changemakers
+- and the wider UCL Faculty of Population Health Sciences
 
 
 ## Rules
 Code only to be written during hacking sessions (day 2)   
 Must add all code to our official GitHub repo
+
+## Post Event Survey
 
