@@ -13,16 +13,20 @@ Link with: HRDUK and OneHealthTeach
 - Learn version control
 - Practice good coding practice
 - Showcase your results
-- Raise awareness of coronavirus
+- Raise awareness of health informatics / issues
+- Connect with researchers and members of the public
+- Be seen by some of the biggest health technology leaders
 - Make the world a better place
 
 ## Prize
-There will be prize available for best projects in categories:
+There will be prizes* available for best projects in these categories:
 - best idea
 - best presentation
 - most innovative
-- people's choice   
-but we put _collaboration before competition_. Everyone is a winner!
+- people's choice 
+- best documentation / replicability   
+however we put _collaboration before competition_. Everyone is a winner!
+*exact prizes to be revealed soon. If you receive a prize, you will need to provide us your contact details.
 
 ## Time
 End of Term 3 (June 2021)
@@ -31,7 +35,9 @@ End of Term 3 (June 2021)
 _information about registration e.g. EventBrite & Inkpath_
 
 ### Eligibility Criteria
-open to public, but directed towards health researchers who code   
+This event is open to the public, but is led by and directed towards health researchers who code. If you are interested in health research, informatics, technology, data, coding etc. then you are welcome to join! 
+
+#### Previous requirements
 
 ### Deadlines
 Choose one of our projects or use our template to create your own by 1 month before  
@@ -69,8 +75,11 @@ Submitted project will be evaluated based on:
 
 ## Matchmaking
 Participants will form teams based on their project preference.  
-If no project preference, participants will be matched based on category / theme / language preference and expertise.  
+Teams may have a group size of around 5, groups of 1 or more are allowed.     
+If no project preference, participants will be matched based on category / theme / language preference and expertise.   
+We will help you find a team if you want.    
 Matchmaking will happen on Day 1.  
+
 
 ## Timeline
 (for discussion)
@@ -120,7 +129,29 @@ We are also supported by:
 
 ## Rules
 Code only to be written during hacking sessions (day 2)   
-Must add all code to our official GitHub repo
+Must add all code to our official GitHub repo   
+
+### Code of Conduct
+Same as the 8 Rules of Code Club.  
+We are an inclusive group.    
+Please be kind to everyone.   
+If there are social problems you would like us to help with, please tell us.   
+
+### Consent
+We will ask your permission if we can take photos, screenshots, and recordings during the event.   
+If you take your own screenshots / photos, then please obtain everyone's permission first.  
+Tweet about the event using the #IHIHackathon and tag us @UCL_CodeClubs and tag our funders @RLI...  
 
 ## Post Event Survey
 
+## FAQs
+
+What is a hackathon?
+
+But I've never done a hackathon before!
+
+I don't have a team.
+
+
+### Contact Us
+If you have any issues, please email us at:
