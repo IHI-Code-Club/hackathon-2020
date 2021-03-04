@@ -44,14 +44,12 @@ If no one interested in project, advertise
 ## Project submission guideline
 ### Categories
 - Data story-telling (e.g. data visualization)
-- Prediction (e.g. ML model)
 - Software engineering (e.g. Shiny app, python package, new programming language)
 - Data engineering (e.g. standard data format, ontologies, data mining)   
 
 ### Themes
-- not COVID-19   
-- (Post-)pandemic world (e.g. Twitter/Google searches changed before and after lockdown/pandemic)   
-- Reproducibility (e.g. bias in health data, making tool to help/visualise bias in datasets, how your cohort changes (representibility) when you change a value)   
+- Reproducibility
+- Data diversity and unfair bias (e.g. bias in health data, making tool to help/visualise bias in datasets, how your cohort changes (representibility) when you change a value)   
 
 see clear project ideas in the template folder  
 
