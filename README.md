@@ -6,6 +6,8 @@ This repo is created for project management of The IHI Code Club Hackathon 2020,
 The [IHI Code Club](https://ucl-ihi.github.io/CodeClub/introduction.html), a student-led organization from UCL Institute of Health Informatics aiming to promote good coding practice and reproducibility in research.
 As an effort to engage more with the general public and contribute to the greater good of humanity, this year we will hold a public virtual hackathon event with projects selected from our community.
 
+Link with: HRDUK and OneHealthTeach
+
 ## Benefits
 - Learn how to collaborate on GitHub
 - Learn version control
@@ -19,7 +21,7 @@ There will be prize available for best projects in categories:
 - best idea
 - best presentation
 - most innovative
-- people's choice
+- people's choice   
 but we put _collaboration before competition_. Everyone is a winner!
 
 ## Time
@@ -29,28 +31,37 @@ End of Term 3 (June 2021)
 _information about registration e.g. EventBrite & Inkpath_
 
 ### Eligibility Criteria
-open to public, but directed towards health researchers who code
+open to public, but directed towards health researchers who code   
 
 ### Deadlines
 Choose one of our projects or use our template to create your own by 1 month before  
 We will tell you which team and project you will be in on Day 1 during Matchmaking  
 ##### Registration deadline: May [1 month before 3 days]  
-##### Project submission and choice deadline: [2 weeks before].   
-Selected projects will have a chance to win the prizes above    
+##### Project submission and choice deadline: [2 weeks before registration].   
+Selected projects will have a chance to win the prizes above   
+If no one interested in project, advertise   
 
 ## Project submission guideline
 ### Categories
 - Data story-telling (e.g. data visualization)
 - Prediction (e.g. ML model)
 - Software engineering (e.g. Shiny app, python package, new programming language)
-- Data engineering (e.g. standard data format, ontologies, data mining)
+- Data engineering (e.g. standard data format, ontologies, data mining)   
 
 ### Themes
-- Post-pandemic world
-- Reproducibility
+- not COVID-19   
+- (Post-)pandemic world (e.g. Twitter/Google searches changed before and after lockdown/pandemic)   
+- Reproducibility (e.g. bias in health data, making tool to help/visualise bias in datasets, how your cohort changes (representibility) when you change a value)   
+
+see clear project ideas in the template folder  
+
 
 ### Dataset
-_for data storytelling and prediction_
+_for data storytelling and prediction_   
+Regulations  
+Must be a public dataset   
+
+e.g. if web scraping give scripts?   
 
 Submitted project will be evaluated based on:
 - Relevance
@@ -107,6 +118,6 @@ The IHI Code Club Hackathon is sponsored by:
 
 
 ## Rules
-Code only to be written during hacking sessions (day 2)
+Code only to be written during hacking sessions (day 2)   
 Must add all code to our official GitHub repo
 
