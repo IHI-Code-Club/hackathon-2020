@@ -51,7 +51,7 @@ If no one interested in project, advertise
 | Theme                       | Description                                                                                                                                   | Example topis                                         |
 |-----------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------|-------------------------------------------------------|
 | Meta-research               | Meta-research seeks to improve research quality by promoting good research practice and dealing with issues that may affect research outcomes | <ul><li>Reproducibility</li> <li>Data diversity</li> <li>Bias in research</li></ul>|
-| Applied health data science | Application of data science techniques to solve health issues to solve real-world health issues                                               | <ul><li>Impact of pandemic</li> <li>Global health</li> <li>e-Health</li></ul>       |
+| Applied health data science | Application of data science techniques to solve real-world health issues                                               | <ul><li>Impact of pandemic</li> <li>Global health</li> <li>e-Health</li></ul>       |
 
 see clear project ideas in the template folder  
 
