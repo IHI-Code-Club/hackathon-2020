@@ -1,6 +1,6 @@
 # The IHI Code Club (Virtual) Hackathon 2020+1
 
-For full details of this event, please read our **[Wiki](https://github.com/IHI-Code-Club/hackathon-2020/wiki)**.     
+## :exclamation: For full details of this event, please refer to our **[Wiki](https://github.com/IHI-Code-Club/hackathon-2020/wiki)**    
 *We are constantly updating the Wiki.*
 
 ## Introduction
