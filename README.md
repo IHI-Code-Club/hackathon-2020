@@ -29,10 +29,10 @@ All participants *must* be registered on EventBrite. If you are affiliated with 
 Open to the public (18+), but directed towards health researchers who code   
 
 ### Deadlines
-*You must register and fill-in the Google Form by **5pm on 24th June**.  
+You *must* register and fill-in the Google Form by **5pm on 24th June**.  
 We will tell you which team and project you will be in at the pre-Hackathon event (5-7pm 25th June).   
 *If you sign-up after the dealine, please come to the pre-Hackathon event and Hackathon Day 1 morning and we'll help you find a team.*   
 
 
 ### Acknowledgements
-The IHI Code Club Hackathon is funded by the Researcher-Led Initiative at UCL.
+The IHI Code Club Hackathon is a Researcher-Led Initiative funded by the UCL Doctoral Skills Development Programme.
